@@ -1,16 +1,16 @@
 {
   "token": {
-    "access_token": "dummy",
-    "refresh_token": "dummy",
-    "scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/script.projects openid https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/logging.read https://www.googleapis.com/auth/script.webapp.deploy https://www.googleapis.com/auth/script.deployments https://www.googleapis.com/auth/service.management https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/userinfo.profile",
-    "token_type": "Bearer",
-    "id_token": "dummy",
-    "expiry_date": 1580833871304
+    "access_token":"dummy",
+    "refresh_token":"dummy",
+    "scope":"https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/script.projects openid https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/logging.read https://www.googleapis.com/auth/script.webapp.deploy https://www.googleapis.com/auth/script.deployments https://www.googleapis.com/auth/service.management https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/userinfo.profile",
+    "token_type":"Bearer",
+    "id_token":"dummy",
+    "expiry_date":1580833871304
   },
   "oauth2ClientSettings": {
-    "clientId": "dummy",
-    "clientSecret": "dummy",
-    "redirectUri": "http://localhost"
+    "clientId":"dummy",
+    "clientSecret":"dummy",
+    "redirectUri":"http://localhost"
   },
   "isLocalCreds": false
 }
