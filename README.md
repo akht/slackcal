@@ -1,4 +1,4 @@
-# カレンダーの予定をいい感じに通知するやつ
+# カレンダーの予定をいい感じにslackに通知するやつ
 
 ![.github/workflows/deploy.yml](https://github.com/akht/slackcal/workflows/.github/workflows/deploy.yml/badge.svg?branch=master)
 
