@@ -129,7 +129,8 @@ function addDaysDiffToEventList(eventList) {
 }
 
 function formatEventList(eventList) {
-  string = "アバウト予定：" + SPREADSHEET_URL + "\n";
+  string = "カレンダー：" + CALENDAR_URL + "\n"
+  string += "アバウト予定：" + SPREADSHEET_URL + "\n\n";
   eventList.forEach (function (e) {
     var tmpString = "";
 
